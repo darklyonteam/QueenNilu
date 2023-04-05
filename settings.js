@@ -7,16 +7,16 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['94757558130'] //ur owner number
+global.ownername = "🐼⃝⃦🍃ᴛᴏxͥɪᴄ〲ᴘᴀɴͣᴅͫᴀ👨🏻‍💻᭄" //ur owner name
 
 //Bot Name 
-global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
-global.wm = "ǫᴜᴇᴇɴ ɴɪʟᴜ" //ur watermark
+global.botname = '🐼⃝⃦🍃ᴛᴏxͥɪᴄ〲ᴘᴀɴͣᴅͫᴀ👨🏻‍💻᭄' //ur bot name
+global.wm = "🐼⃝⃦🍃ᴛᴏxͥɪᴄ〲ᴘᴀɴͣᴅͫᴀ👨🏻‍💻᭄" //ur watermark
 
 global.keyopenai = "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",
 //React Messages 
-global.OWNER_REACT = '🥀' //Owner's Messages react emoji
+global.OWNER_REACT = '🐼'//Owner's Messages react emoji
 global.AUTO_REACT = 'true' // React Messags auto
 
 
@@ -45,7 +45,7 @@ global.INBOX_BLOCK_MSG = 'blockedd'
 global.ANTI_BADWORD = 'true'
 
 
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 QUEEN NILU ²⁰²³'
+global.cap = '🐼⃝⃦🍃ᴛᴏxͥɪᴄ〲ᴘᴀɴͣᴅͫᴀ👨🏻‍💻᭄'
 
 // Menu imoji 
 global.MENU_IMOJI = '💃|🧸'
@@ -58,24 +58,24 @@ global.SONG_DOWN = '```⬇️ Downloading Your Song...```'
 global.SONG_UP = '```⬆️ Uploding Your Song...```'
 
 //SEX_VIDEO_DOWNLOAD
-global.SEX_VIDEO_DOWNLOAD ='true'
+global.SEX_VIDEO_DOWNLOAD ='false'
 
 //Kick Message 
-global.KICK_MSG = ' ' 
+global.KICK_MSG = 'Hey..Sleep Well Bro Goodbye. ' 
 
 //Links (URLS)
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
+global.ytname = "YT:nane" //ur yt chanel name
+global.socialm = "GitHub: na" //ur github or insta name
 global.linkz = "https://chat.whatsapp.com/" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/c/janithsadanuwan" //ur website to be displayed
-global.botscript = 'https://github.com/janithsadanuwan/QueenNilu' //script link
+global.websitex = "na" //ur website to be displayed
+global.botscript = 'na' //script link
 
 //Alive 
-global.alivelogo = process.env.ALIVE_LOGO || `https://te.legra.ph/file/a9293226a7c660ecbfffb.jpg`
+global.alivelogo = process.env.ALIVE_LOGO || `https://te.legra.ph/file/aad04e0221e224bfcf908.png`
 global.alive = process.env.ALIVE_MESSAGE 
 
 //Sticker Making 
-global.packname = "ǫᴜᴇᴇɴ ɴɪʟᴜ 💃" 
+global.packname = "🐼⃝⃦🍃ᴛᴏxͥɪᴄ〲ᴘᴀɴͣᴅͫᴀ👨🏻‍💻᭄" 
 
 //Anti Bad Word
 global.ANTI_BADWORD = 'true'
